@@ -1,4 +1,7 @@
 ## Hi there 👋
+my name is Tinka (she) and I can shut one eye while leaving the other open, like a doll. U.O
+I would love if someone could help me unblur some lines, see my blurry-lines repository
+
 
 <!--
 **TinkaHilal/TinkaHilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
